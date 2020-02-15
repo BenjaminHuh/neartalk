@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/static/css/main.7f542885.chunk.css",
-    "main.js": "/static/js/main.b2ab866e.chunk.js",
-    "main.js.map": "/static/js/main.b2ab866e.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.b70c9756.js",
-    "runtime-main.js.map": "/static/js/runtime-main.b70c9756.js.map",
-    "static/css/2.5c17b9f1.chunk.css": "/static/css/2.5c17b9f1.chunk.css",
-    "static/js/2.8f41c156.chunk.js": "/static/js/2.8f41c156.chunk.js",
-    "static/js/2.8f41c156.chunk.js.map": "/static/js/2.8f41c156.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.c53f0c04d7098ee3dbbb5a34545c9a63.js": "/precache-manifest.c53f0c04d7098ee3dbbb5a34545c9a63.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.5c17b9f1.chunk.css.map": "/static/css/2.5c17b9f1.chunk.css.map",
-    "static/css/main.7f542885.chunk.css.map": "/static/css/main.7f542885.chunk.css.map",
-    "static/js/2.8f41c156.chunk.js.LICENSE": "/static/js/2.8f41c156.chunk.js.LICENSE",
-    "static/media/anon.png": "/static/media/anon.5cbbd243.png",
-    "static/media/encryptionOff.png": "/static/media/encryptionOff.475ce496.png",
-    "static/media/encryptionOn.png": "/static/media/encryptionOn.23e3b306.png",
-    "static/media/gray_near_logo.svg": "/static/media/gray_near_logo.55517b93.svg"
+    "main.css": "/neartalk/static/css/main.7f542885.chunk.css",
+    "main.js": "/neartalk/static/js/main.22019aed.chunk.js",
+    "main.js.map": "/neartalk/static/js/main.22019aed.chunk.js.map",
+    "runtime-main.js": "/neartalk/static/js/runtime-main.1f1403a4.js",
+    "runtime-main.js.map": "/neartalk/static/js/runtime-main.1f1403a4.js.map",
+    "static/css/2.5c17b9f1.chunk.css": "/neartalk/static/css/2.5c17b9f1.chunk.css",
+    "static/js/2.4f0acbb3.chunk.js": "/neartalk/static/js/2.4f0acbb3.chunk.js",
+    "static/js/2.4f0acbb3.chunk.js.map": "/neartalk/static/js/2.4f0acbb3.chunk.js.map",
+    "index.html": "/neartalk/index.html",
+    "precache-manifest.84450f17d28531abfe606b3ff91d2034.js": "/neartalk/precache-manifest.84450f17d28531abfe606b3ff91d2034.js",
+    "service-worker.js": "/neartalk/service-worker.js",
+    "static/css/2.5c17b9f1.chunk.css.map": "/neartalk/static/css/2.5c17b9f1.chunk.css.map",
+    "static/css/main.7f542885.chunk.css.map": "/neartalk/static/css/main.7f542885.chunk.css.map",
+    "static/js/2.4f0acbb3.chunk.js.LICENSE": "/neartalk/static/js/2.4f0acbb3.chunk.js.LICENSE",
+    "static/media/anon.png": "/neartalk/static/media/anon.5cbbd243.png",
+    "static/media/encryptionOff.png": "/neartalk/static/media/encryptionOff.475ce496.png",
+    "static/media/encryptionOn.png": "/neartalk/static/media/encryptionOn.23e3b306.png",
+    "static/media/gray_near_logo.svg": "/neartalk/static/media/gray_near_logo.55517b93.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.b70c9756.js",
+    "static/js/runtime-main.1f1403a4.js",
     "static/css/2.5c17b9f1.chunk.css",
-    "static/js/2.8f41c156.chunk.js",
+    "static/js/2.4f0acbb3.chunk.js",
     "static/css/main.7f542885.chunk.css",
-    "static/js/main.b2ab866e.chunk.js"
+    "static/js/main.22019aed.chunk.js"
   ]
 }
