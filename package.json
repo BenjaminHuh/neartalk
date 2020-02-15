@@ -1,5 +1,6 @@
 {
     "name": "near-open-web-frontend",
+    "homepage": "https://benjaminhuh.github.io/neartalk/",
     "version": "0.1.0",
     "private": true,
     "dependencies": {
