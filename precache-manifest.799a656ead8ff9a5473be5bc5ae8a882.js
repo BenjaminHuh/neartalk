@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "872b8b3a8501d598eb4453841689f778",
+    "revision": "2cecbfec3c87bf5597c9fdd49b545878",
     "url": "/neartalk/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/neartalk/static/css/2.5c17b9f1.chunk.css"
   },
   {
-    "revision": "876986b861ef1c1fbfc7",
+    "revision": "a59e021037e08970a2a4",
     "url": "/neartalk/static/css/main.7f542885.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/neartalk/static/js/2.4f0acbb3.chunk.js.LICENSE"
   },
   {
-    "revision": "876986b861ef1c1fbfc7",
-    "url": "/neartalk/static/js/main.22019aed.chunk.js"
+    "revision": "a59e021037e08970a2a4",
+    "url": "/neartalk/static/js/main.1d280dc1.chunk.js"
   },
   {
     "revision": "4645bf177274931f7e04",

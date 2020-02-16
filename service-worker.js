@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/neartalk/precache-manifest.84450f17d28531abfe606b3ff91d2034.js"
+  "/neartalk/precache-manifest.799a656ead8ff9a5473be5bc5ae8a882.js"
 );
 
 self.addEventListener('message', (event) => {
