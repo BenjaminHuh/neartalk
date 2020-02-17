@@ -1,5 +1,5 @@
 (function() {
-    const CONTRACT_NAME = 'neardev'; /* TODO: fill this in!*/
+    const CONTRACT_NAME = 'bhdev'; /* TODO: fill this in!*/
     const DEFAULT_ENV = 'development'; 
     
     function getConfig(env) {
